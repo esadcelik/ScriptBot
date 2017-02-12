@@ -1,0 +1,3 @@
+/Users/esat/SourceTree/ScriptBot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/esat/SourceTree/ScriptBot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/esat/SourceTree/ScriptBot/cmake-build-debug/CMakeFiles/ScriptBot.dir
